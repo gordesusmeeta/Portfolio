@@ -4,7 +4,7 @@
 📍 Pune, Maharashtra  
 📧 gordesusmeeta@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/susmeeta-gorde-522146225 
-🔗 GitHub: 
+
 
 ---
 
@@ -183,4 +183,3 @@ Bachelors in Computer Science
 
 📧 Email: gordesusmeeta@gmail.com  
 🔗 LinkedIn: www.linkedin.com/in/susmeeta-gorde-522146225
-🔗 GitHub: 
